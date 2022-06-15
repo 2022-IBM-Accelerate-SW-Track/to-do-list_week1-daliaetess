@@ -1,3 +1,6 @@
+import "./Home.css";
+import "../component/AddTodo.js";
+import "../component/todos.js";
 import React, { Component } from 'react';
   
 class Home extends Component {
